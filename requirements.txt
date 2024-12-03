@@ -1,13 +1,24 @@
-streamlit
-pandas
-openpyxl
-plotly
-gspread 
-oauth2client 
-plotly
+# streamlit
+# pandas
+# openpyxl
+# plotly
+# gspread 
+# oauth2client 
+# plotly
 
-xlsxwriter
-streamlit-option-menu
-mysql-connector-python
-sqlite3
-python-dotenv
+# xlsxwriter
+# streamlit-option-menu
+# mysql-connector-python
+# sqlite3
+# python-dotenv
+streamlit==1.40.2
+pandas==2.2.3
+openpyxl==3.1.5
+plotly==5.24.1
+gspread==6.1.4
+oauth2client==4.1.3
+xlsxwriter==3.2.0
+streamlit-option-menu==0.4.0
+mysql-connector-python==9.1.0
+sqlite3==3.35.5 # Or the specific version you need
+python-dotenv==0.21.1
