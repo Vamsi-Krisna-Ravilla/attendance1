@@ -5,10 +5,7 @@ plotly
 gspread 
 oauth2client 
 plotly
-google-auth 
-google-auth-oauthlib 
-google-auth-httplib2
-gsheets-connection
+
 xlsxwriter
 streamlit-option-menu
 mysql-connector-python
